@@ -1,0 +1,31 @@
+
+
+.nextHole{
+    background-color: darkolivegreen;
+    bottom: 30px;
+    right: 30px;
+}
+
+.nextHole:hover{
+    background-color: lightgreen;
+}
+
+
+button{
+    padding-top:10px;
+    padding-bottom:10px;
+    font-size: 20px;
+    color:white;
+    text-align: center;
+    display: block;
+    margin:auto;
+    height: 50px;
+    width: 250px;
+    position: absolute;
+}
+
+.arrayofnames{
+    left: 100px;
+    position: relative;
+    display: grid;
+}

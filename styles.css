@@ -1,0 +1,32 @@
+
+.addPlayer{
+background-color: darkblue;
+bottom: 30px;
+}
+
+.startRound{
+    background-color: darkolivegreen;
+    bottom: 30px;
+    right: 30px;
+}
+
+.startRound:hover{
+    background-color: lightgreen;
+}
+
+.addPlayer:hover{
+    background-color: blue;
+}
+
+button{
+    padding-top:10px;
+    padding-bottom:10px;
+    font-size: 20px;
+    color:white;
+    text-align: center;
+    display: block;
+    margin:auto;
+    height: 50px;
+    width: 250px;
+    position: absolute;
+}
